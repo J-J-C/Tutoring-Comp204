@@ -83,3 +83,7 @@ Then, the output of the program should be:
 ```
 https://realpython.com/python3-object-oriented-programming/#review-exercises-2
 ```
+
+### References
+- https://github.com/zhiwehu/Python-programming-exercises/blob/master/100%2B%20Python%20challenging%20programming%20exercises.txt
+- https://programmingwithmosh.com/python/python-exercises-and-questions-for-beginners/
